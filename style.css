@@ -1,0 +1,102 @@
+
+        /* Global Settings */
+
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif; 
+    color: rgb(77, 77, 77);
+}
+
+        /* Main */
+
+#main {
+    text-align: center;
+
+    background-color: rgb(252, 247, 240);
+    margin: 28px 14px;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+        /* Title */
+
+#title {
+    font-size: 4rem;
+    margin: 10px 0 5px;
+}
+
+#main>p {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+}
+
+        /* Image */
+
+#img-div {
+    background-color: whitesmoke;
+}
+
+#image {
+    max-width: 100%;
+    padding-top: 10px;
+}
+
+#img-caption {
+    font-size: 1.5rem;
+    padding: 8px 0 12px;
+}
+
+        /* Section Tribute Info */
+
+#tribute-info {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 30px;
+}
+
+ul {
+    text-align: left;
+    font-size: 1.6rem;
+    line-height: 30px;
+}
+
+li {
+    padding: 15px;
+    list-style-type: none;
+}
+
+blockquote {
+    font-size: 1.8rem;
+    text-align: left;
+    font-style: italic;
+    padding: 18px;
+}
+
+blockquote p {
+    padding-bottom: 10px;
+}
+
+        /* Footer */
+
+h3 {
+    font-size: 1.8rem;
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(1, 110, 117);
+}
+
